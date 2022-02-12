@@ -37,7 +37,7 @@ start listening connection status:
  ```
 or stop listening:
  ```
-   connectionSwitcher.stop();
+ connectionSwitcher.stop();
  ```
 
 ## Additional information

@@ -1,7 +1,7 @@
 name: fast_internet_checker
 description: A simple package on pure Dart to check connection to internet. Also provide a method to listen for connection status changes.
 version: 0.0.1
-homepage:
+homepage: https://github.com/postflow/fast_internet_checker
 
 platforms:
   android:
